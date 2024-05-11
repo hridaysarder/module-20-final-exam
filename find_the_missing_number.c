@@ -34,3 +34,20 @@ int main()
     }
     return 0;
 }
+
+// for (int i=0;i<row;i++)
+// {
+// for(int j=0;j<column;j++)
+// {
+// if((i==j || i+j == row-1) && ( a[i][j] != 1))
+// {
+// flag = 0;
+// break;
+// }
+// else if(i!=j && i+j!=row-1 && a[i][j] != 0)
+// {
+// flag = 0;
+// break;
+// }
+// }
+// }
